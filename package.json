@@ -1,0 +1,29 @@
+{
+  "name": "fitness",
+  "version": "1.0.0",
+  "description": "Workout tracker ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapaige/fitness.git"
+  },
+  "keywords": [
+    "workout",
+    "fitness",
+    "dashboard"
+  ],
+  "author": "Marcia Paige",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapaige/fitness/issues"
+  },
+  "homepage": "https://github.com/mapaige/fitness#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
